@@ -1,4 +1,4 @@
-project = "Crabshack"
+project = "NearAI Agent Hosting Infra"
 copyright = "2026, NEAR AI"
 author = "NEAR AI"
 
@@ -12,9 +12,9 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 html_theme = "sphinx_wagtail_theme"
 html_theme_options = {
-    "project_name": "Crabshack API",
+    "project_name": "NearAI Agent Hosting Infra API",
     "logo": "",
-    "logo_alt": "Crabshack",
+    "logo_alt": "NearAI Agent Hosting Infra",
     "logo_url": "/",
     "logo_height": 50,
     "logo_width": 50,

@@ -1,5 +1,5 @@
-Crabshack API Reference
-=======================
+NearAI Agent Hosting Infra API Reference
+========================================
 
 **NearAI Agent Hosting Infrastructure** -- deploy, manage, and monitor AI agent
 instances with a REST API backed by Server-Sent Events for lifecycle operations.
