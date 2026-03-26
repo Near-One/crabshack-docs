@@ -1,0 +1,20 @@
+/* Tighter tables */
+.wy-table-responsive table td,
+.wy-table-responsive table th {
+    white-space: normal;
+}
+
+/* HTTP method badges */
+.method-get, .method-post, .method-patch, .method-delete {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 0.85em;
+    margin-right: 4px;
+}
+.method-get    { background: #61affe; color: #fff; }
+.method-post   { background: #49cc90; color: #fff; }
+.method-patch  { background: #fca130; color: #fff; }
+.method-delete { background: #f93e3e; color: #fff; }
